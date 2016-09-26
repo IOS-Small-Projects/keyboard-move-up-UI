@@ -1,5 +1,6 @@
-UITextField move up when keyboard is present
-Hide keyboard after tap outside
+###UITextField move up when keyboard is present
+
+###Hide keyboard after tap outside
 
 Reference - 
 
